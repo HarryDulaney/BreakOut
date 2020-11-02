@@ -1,2 +1,2 @@
 # Breakout
-Breakout the game, programmed with core Python
+The classic Atari/ Arcade game, programmed using core Python.
